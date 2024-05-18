@@ -1,0 +1,67 @@
+# CV
+numpy
+scipy
+scikit-image
+scikit-learn
+
+opencv-python
+
+# Data
+pandas
+PyYAML
+
+
+# Tools
+tqdm
+pprintpp
+
+# ML
+timm
+transformers
+# tensorflow-gpu
+# tensorflow_probability
+ultralytics
+
+# File
+PyYAML
+
+# Medical
+MedPy
+pylidc
+SimpleITK
+pynrrd
+
+# 3D data
+connected-components-3d
+
+# Visualization
+# tensorboardX
+matplotlib
+seaborn
+grad-cam
+
+# ONNX
+onnx
+onnxruntime
+onnxsim
+
+# Model serving
+pyinstaller
+
+# Audio
+librosa
+pydub
+audiomentations
+
+# CPP
+cython
+
+# MLOPs
+mlflow
+
+# Test
+pytest
+
+# Others
+ipython
+
